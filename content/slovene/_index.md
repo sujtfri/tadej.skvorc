@@ -5,7 +5,7 @@ draft = false
 
 {{< columns alignment="center" >}}
 
-<img src="/ime-priimek/img/placeholder.jpg" class="img-fluid" style="width: 60%"> 
+<img src="/tadej.skvorc/img/placeholder.jpg" class="img-fluid" style="width: 60%"> 
 
 {{< column >}}
 
